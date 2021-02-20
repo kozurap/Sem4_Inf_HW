@@ -36,7 +36,11 @@ namespace PomoikaToConvert
             app.UseEndpoints(endpoints =>
             {
                 endpoints.Map("/George",
-                    async context => { await context.Response.WriteAsync("Hi my name is George I am from Chilladelphia"); });
+                    async context =>
+                    {
+                        await context.Response.WriteAsync
+                            ("Hi my name is " + env.EnvironmentName + " I am from Chilladelphia");
+                    });
             });
         }
     }
