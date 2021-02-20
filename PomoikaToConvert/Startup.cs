@@ -9,7 +9,7 @@ namespace PomoikaToConvert
 {
     public class Startup
     {
-        public void ConfigureServises(IServiceCollection service)
+        public void ConfigureServiсes(IServiceCollection service)
         {
 
         }
