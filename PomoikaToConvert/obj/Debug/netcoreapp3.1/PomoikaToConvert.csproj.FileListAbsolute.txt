@@ -1,0 +1,17 @@
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.exe
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.deps.json
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.runtimeconfig.json
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.runtimeconfig.dev.json
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.dll
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\bin\Debug\netcoreapp3.1\PomoikaToConvert.pdb
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.csprojAssemblyReference.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.AssemblyInfoInputs.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.AssemblyInfo.cs
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.RazorTargetAssemblyInfo.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\staticwebassets\PomoikaToConvert.StaticWebAssets.Manifest.cache
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\staticwebassets\PomoikaToConvert.StaticWebAssets.xml
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.dll
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.pdb
+C:\Users\Тимур\RiderProjects\PomoikaToConvert\PomoikaToConvert\obj\Debug\netcoreapp3.1\PomoikaToConvert.genruntimeconfig.cache
