@@ -4,11 +4,21 @@
     <projectFile>PomoikaToConvert/PomoikaToConvert.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16ea70dc-3324-4032-a111-f804dab3ea3f" name="Default Changelist" comment="" />
+    <list default="true" id="16ea70dc-3324-4032-a111-f804dab3ea3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PomoikaToConvert/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PomoikaToConvert/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PomoikaToConvert/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PomoikaToConvert/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PomoikaToConvert/bin/Debug/netcoreapp3.1/PomoikaToConvert.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PomoikaToConvert/bin/Debug/netcoreapp3.1/PomoikaToConvert.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PomoikaToConvert/bin/Debug/netcoreapp3.1/PomoikaToConvert.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PomoikaToConvert/bin/Debug/netcoreapp3.1/PomoikaToConvert.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PomoikaToConvert/obj/Debug/netcoreapp3.1/PomoikaToConvert.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PomoikaToConvert/obj/Debug/netcoreapp3.1/PomoikaToConvert.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PomoikaToConvert/obj/Debug/netcoreapp3.1/PomoikaToConvert.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PomoikaToConvert/obj/Debug/netcoreapp3.1/PomoikaToConvert.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/PomoikaToConvert/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -23,6 +33,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ok2qt9VxSP9RtLUFCmIFwXlZnE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613816461653</updated>
-      <workItem from="1613816478530" duration="2046000" />
+      <workItem from="1613816478530" duration="2793000" />
     </task>
     <servers />
   </component>
@@ -74,22 +85,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613817941996">
+    <state x="624" y="310" key="Github.ShareDialog" timestamp="1613818715832">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613817941996" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613817941996">
+    <state x="624" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1613818715832" />
+    <state x="517" y="118" key="Github.UntrackedFilesDialog" timestamp="1613818617789">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613817941996" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613817941996">
+    <state x="517" y="118" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1613818617789" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613819239241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613817941996" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613817941996">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613819239241" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613819239241">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613817941996" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613819239241" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613819239241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613819239241" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613819239241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613819239241" />
     <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1613818156718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -98,5 +117,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1613818544530" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1613819031406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1613819031406" />
   </component>
 </project>
